@@ -3,3 +3,5 @@ test index file
 edited / added / committed from git
 
 edit from local
+
+local edit again
