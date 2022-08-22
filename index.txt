@@ -6,4 +6,4 @@ edit from local
 
 local edit again
 
-remote edit
+remote edit.
